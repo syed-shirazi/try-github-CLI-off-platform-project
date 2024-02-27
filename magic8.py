@@ -8,7 +8,7 @@ random_number = random.randint(1, 9)
 # print(random_number)
 
 if random_number == 1:
-  answer = "Yes - definitely"
+  answer = "Yes - definitely! "
 elif random_number == 2:
   answer = "It is decidedly so"
 elif random_number == 3:
